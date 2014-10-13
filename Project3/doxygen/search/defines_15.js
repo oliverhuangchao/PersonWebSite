@@ -1,0 +1,22 @@
+var searchData=
+[
+  ['version_5fmy_5fsnprintf',['VERSION_my_snprintf',['../service__versions_8h.html#aac3602388ee758b9dbd7bdc911a125e0',1,'service_versions.h']]],
+  ['version_5fthd_5falloc',['VERSION_thd_alloc',['../service__versions_8h.html#a1d740871f9adf48e0410983c280ecf6d',1,'service_versions.h']]],
+  ['vio_5fblocking',['vio_blocking',['../violite_8h.html#a596127c4837248ffc807b60df342b84e',1,'violite.h']]],
+  ['vio_5fbuffered_5fread',['VIO_BUFFERED_READ',['../violite_8h.html#ae660ef8953b15fc65dc2dd85b66e9580',1,'violite.h']]],
+  ['vio_5fclose',['vio_close',['../violite_8h.html#a2384b7d5afc4348c2f89fd5ca5992925',1,'violite.h']]],
+  ['vio_5fdelete',['vio_delete',['../violite_8h.html#aadcc2a94246ddb59f11f253a90327ef5',1,'violite.h']]],
+  ['vio_5ferrno',['vio_errno',['../violite_8h.html#a07905c60f1763b59da8f2d7b3dad4922',1,'violite.h']]],
+  ['vio_5ffastsend',['vio_fastsend',['../violite_8h.html#a999da325abfbbc7a7284bc49eddcf69c',1,'violite.h']]],
+  ['vio_5fis_5fblocking',['vio_is_blocking',['../violite_8h.html#a15bf5ee18a6133eb651693809d1f94a1',1,'violite.h']]],
+  ['vio_5fkeepalive',['vio_keepalive',['../violite_8h.html#a19bb776e1f97f12c68ee5e2e6be2281f',1,'violite.h']]],
+  ['vio_5flocalhost',['VIO_LOCALHOST',['../violite_8h.html#a1d4e5bb77e1faf63d8f4ba76fe933b49',1,'violite.h']]],
+  ['vio_5fpeer_5faddr',['vio_peer_addr',['../violite_8h.html#aba1e172d0712d3ccdfb563ebbf7cffae',1,'violite.h']]],
+  ['vio_5fread',['vio_read',['../violite_8h.html#ad246ea579154afe07d5ad34a9f465745',1,'violite.h']]],
+  ['vio_5fread_5fbuffer_5fsize',['VIO_READ_BUFFER_SIZE',['../violite_8h.html#abeb44c3b98ab31a3da7c02cbd9fbcbc1',1,'violite.h']]],
+  ['vio_5fshould_5fretry',['vio_should_retry',['../violite_8h.html#a55a066cae80a21e7d85963fbde80df73',1,'violite.h']]],
+  ['vio_5ftimeout',['vio_timeout',['../violite_8h.html#a7268e264d2c424b5a3e75bc44de97f25',1,'violite.h']]],
+  ['vio_5fwas_5finterrupted',['vio_was_interrupted',['../violite_8h.html#a1088917abfda0ffa6456775b41b86875',1,'violite.h']]],
+  ['vio_5fwrite',['vio_write',['../violite_8h.html#ad3182b0e22af9ae4620d853dad75a9d0',1,'violite.h']]],
+  ['void_5fsighandler',['VOID_SIGHANDLER',['../config-win_8h.html#ae8a37fa6c27ec6bf124faa70fcd848c5',1,'config-win.h']]]
+];

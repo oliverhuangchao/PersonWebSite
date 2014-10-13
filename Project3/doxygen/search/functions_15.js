@@ -1,0 +1,25 @@
+var searchData=
+[
+  ['vio_5fblocking',['vio_blocking',['../violite_8h.html#a182b2ad190e32a0ce151f3a583ad12d0',1,'violite.h']]],
+  ['vio_5fclose',['vio_close',['../violite_8h.html#a0433c03197f14f4eb76495d42d67cc7d',1,'violite.h']]],
+  ['vio_5fdelete',['vio_delete',['../violite_8h.html#a2e2b4616caa24a782244f045b64a027f',1,'violite.h']]],
+  ['vio_5fdescription',['vio_description',['../violite_8h.html#ab6d8347e106e64fdfcffdf0447e7e4d1',1,'violite.h']]],
+  ['vio_5fend',['vio_end',['../violite_8h.html#a458db3d6f299d7d7e9bd12849dda7cec',1,'violite.h']]],
+  ['vio_5ferrno',['vio_errno',['../violite_8h.html#a13121b3c22497e89949773f572048b47',1,'violite.h']]],
+  ['vio_5ffastsend',['vio_fastsend',['../violite_8h.html#a822044d6be8263643a4154b295ff848e',1,'violite.h']]],
+  ['vio_5ffd',['vio_fd',['../violite_8h.html#aac3916742b0041a6bcc6b6913363580a',1,'violite.h']]],
+  ['vio_5fis_5fblocking',['vio_is_blocking',['../violite_8h.html#a609c2ff8e75cf2248cd8e4a8653bef82',1,'violite.h']]],
+  ['vio_5fkeepalive',['vio_keepalive',['../violite_8h.html#a366f5e5b9497c9f43febe056ca1a3e17',1,'violite.h']]],
+  ['vio_5fnew',['vio_new',['../violite_8h.html#a309ac154d6228e5ae6c7a9d8c62522cf',1,'violite.h']]],
+  ['vio_5fpeek_5fread',['vio_peek_read',['../violite_8h.html#acd10413baec3e3563c9ef9723f6acf2b',1,'violite.h']]],
+  ['vio_5fpeer_5faddr',['vio_peer_addr',['../violite_8h.html#a66e2933f8cb59e93b35c274a51bd3d79',1,'violite.h']]],
+  ['vio_5fpending',['vio_pending',['../violite_8h.html#ab51aff2e079e98a925775aaa5a1058c2',1,'violite.h']]],
+  ['vio_5fpoll_5fread',['vio_poll_read',['../violite_8h.html#a6ca5af7def88b0a568fe60e283f1f4d2',1,'violite.h']]],
+  ['vio_5fread',['vio_read',['../violite_8h.html#a50e5db6dee938a17823d8b96ae835257',1,'violite.h']]],
+  ['vio_5fread_5fbuff',['vio_read_buff',['../violite_8h.html#abbcf77033558cf9e0061f7d31cfb9fec',1,'violite.h']]],
+  ['vio_5freset',['vio_reset',['../violite_8h.html#aac82624d1ef113a587f7db2b9d5713be',1,'violite.h']]],
+  ['vio_5fshould_5fretry',['vio_should_retry',['../violite_8h.html#a9285d0390992c1ab1913787c3abd6f81',1,'violite.h']]],
+  ['vio_5ftype',['vio_type',['../violite_8h.html#a2bcce714b2fbbd11e1f574a8c2c44f63',1,'violite.h']]],
+  ['vio_5fwas_5finterrupted',['vio_was_interrupted',['../violite_8h.html#a27a07411a7fbbaf2702dd39e8bab410d',1,'violite.h']]],
+  ['vio_5fwrite',['vio_write',['../violite_8h.html#a79c2053750eb03f77e14420d0701d952',1,'violite.h']]]
+];

@@ -1,0 +1,26 @@
+var searchData=
+[
+  ['seq_5fread_5fappend',['SEQ_READ_APPEND',['../my__sys_8h.html#a133be589b3d6c576450c0b6b75a355e7a134aee5fa177b344cccc5e4b516cd75b',1,'my_sys.h']]],
+  ['sha_5finput_5ftoo_5flong',['SHA_INPUT_TOO_LONG',['../sha1_8h.html#a651861af0c5d147e2fb26ab62cb8e8dea1487f38e32ab72fe6488b609985bf95e',1,'sha1.h']]],
+  ['sha_5fnull',['SHA_NULL',['../sha1_8h.html#a651861af0c5d147e2fb26ab62cb8e8deaa1b616a74892ba80fd815e74ee22eefb',1,'sha1.h']]],
+  ['sha_5fstate_5ferror',['SHA_STATE_ERROR',['../sha1_8h.html#a651861af0c5d147e2fb26ab62cb8e8dea1945c3f9bc95fcfbe6893938276c9e96',1,'sha1.h']]],
+  ['sha_5fsuccess',['SHA_SUCCESS',['../sha1_8h.html#a651861af0c5d147e2fb26ab62cb8e8dea4bad582609c897bd1cfff24c719031db',1,'sha1.h']]],
+  ['shutdown_5fdefault',['SHUTDOWN_DEFAULT',['../mysql__com_8h.html#a06133bb686f1030c73086378cab8d27bafe7c819d6a671c7cc7a20acce7a820d0',1,'mysql_com.h']]],
+  ['shutdown_5fwait_5fall_5fbuffers',['SHUTDOWN_WAIT_ALL_BUFFERS',['../mysql__com_8h.html#a06133bb686f1030c73086378cab8d27ba53278544a490a2af7b32bb2c11a837a7',1,'mysql_com.h']]],
+  ['shutdown_5fwait_5fconnections',['SHUTDOWN_WAIT_CONNECTIONS',['../mysql__com_8h.html#a06133bb686f1030c73086378cab8d27ba82d161500981396a7e5173346b1ae547',1,'mysql_com.h']]],
+  ['shutdown_5fwait_5fcritical_5fbuffers',['SHUTDOWN_WAIT_CRITICAL_BUFFERS',['../mysql__com_8h.html#a06133bb686f1030c73086378cab8d27ba06b8bfb99a945984f3af5848a26bd8b4',1,'mysql_com.h']]],
+  ['shutdown_5fwait_5ftransactions',['SHUTDOWN_WAIT_TRANSACTIONS',['../mysql__com_8h.html#a06133bb686f1030c73086378cab8d27baa541fbc6833b6ce83c9e7152235ffedc',1,'mysql_com.h']]],
+  ['shutdown_5fwait_5fupdates',['SHUTDOWN_WAIT_UPDATES',['../mysql__com_8h.html#a06133bb686f1030c73086378cab8d27bad4ab34d8900aaa6d3c11a5ebf6088745',1,'mysql_com.h']]],
+  ['ssl_5ftype_5fany',['SSL_TYPE_ANY',['../violite_8h.html#a0f686fb40136eb4bcef79f921757a721a78432f267fdac9237a7fd4385667b3e0',1,'violite.h']]],
+  ['ssl_5ftype_5fnone',['SSL_TYPE_NONE',['../violite_8h.html#a0f686fb40136eb4bcef79f921757a721a50d81e61cc9387445a87d7b16f818bcf',1,'violite.h']]],
+  ['ssl_5ftype_5fnot_5fspecified',['SSL_TYPE_NOT_SPECIFIED',['../violite_8h.html#a0f686fb40136eb4bcef79f921757a721a062b2dfa2c9efe3289bf9a56d5de9273',1,'violite.h']]],
+  ['ssl_5ftype_5fspecified',['SSL_TYPE_SPECIFIED',['../violite_8h.html#a0f686fb40136eb4bcef79f921757a721ae74e6cb81f5f9bb7732f5bed144a9112',1,'violite.h']]],
+  ['ssl_5ftype_5fx509',['SSL_TYPE_X509',['../violite_8h.html#a0f686fb40136eb4bcef79f921757a721ab75a164f0af858cc96702ae843fb1e21',1,'violite.h']]],
+  ['static_5frecord',['STATIC_RECORD',['../my__base_8h.html#a4bd513584a847285f667cf54fa8420edaea52932de1556992c6b52f5982483664',1,'my_base.h']]],
+  ['stmt_5fattr_5fcursor_5ftype',['STMT_ATTR_CURSOR_TYPE',['../mysql__32_8h.html#a6a817651ddd965cbe062659e174ff92fab438ec55961a1dfc64c3d11bad080b66',1,'STMT_ATTR_CURSOR_TYPE():&#160;mysql_32.h'],['../mysql__64_8h.html#a6a817651ddd965cbe062659e174ff92fab438ec55961a1dfc64c3d11bad080b66',1,'STMT_ATTR_CURSOR_TYPE():&#160;mysql_64.h']]],
+  ['stmt_5fattr_5fprefetch_5frows',['STMT_ATTR_PREFETCH_ROWS',['../mysql__32_8h.html#a6a817651ddd965cbe062659e174ff92fa09126057589656d0fbf03be26a78a116',1,'STMT_ATTR_PREFETCH_ROWS():&#160;mysql_32.h'],['../mysql__64_8h.html#a6a817651ddd965cbe062659e174ff92fa09126057589656d0fbf03be26a78a116',1,'STMT_ATTR_PREFETCH_ROWS():&#160;mysql_64.h']]],
+  ['stmt_5fattr_5fupdate_5fmax_5flength',['STMT_ATTR_UPDATE_MAX_LENGTH',['../mysql__32_8h.html#a6a817651ddd965cbe062659e174ff92fa65ee8085ca508e83a7a05bd9260c8c9a',1,'STMT_ATTR_UPDATE_MAX_LENGTH():&#160;mysql_32.h'],['../mysql__64_8h.html#a6a817651ddd965cbe062659e174ff92fa65ee8085ca508e83a7a05bd9260c8c9a',1,'STMT_ATTR_UPDATE_MAX_LENGTH():&#160;mysql_64.h']]],
+  ['stream_5fby_5ffdopen',['STREAM_BY_FDOPEN',['../my__sys_8h.html#aaf047b6ce458f7c55fd215920656d128a80665731ff92339a30e218d08f323b0c',1,'my_sys.h']]],
+  ['stream_5fby_5ffopen',['STREAM_BY_FOPEN',['../my__sys_8h.html#aaf047b6ce458f7c55fd215920656d128ad54a13312d1e951856ce4f593b880557',1,'my_sys.h']]],
+  ['string_5fresult',['STRING_RESULT',['../mysql__com_8h.html#ac852cc9149359bbfde83ad6ff646fd62a2f590d5f6111b8e455a2f28dfd6b2022',1,'mysql_com.h']]]
+];
